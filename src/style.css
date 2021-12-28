@@ -1,0 +1,29 @@
+button {
+    cursor: pointer;
+    padding: 1rem;
+    border: 0;
+    background-color: cornflowerblue;
+    color: #000;
+}
+.title {
+    font-size: 28px;
+    font-family: "Times New Roman", serif;
+}
+textarea {
+    width: 100%;
+}
+#upper-case {
+    text-transform: uppercase;
+}
+
+#lower-case {
+    text-transform: lowercase;
+}
+
+#proper-case {
+    text-transform: capitalize;
+}
+
+#sentence-case {
+    text-transform: capitalize;
+}
